@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RunGame {
 
-    private static final int BOARD_SIZE = 5;
+    private static final int BOARD_SIZE = 4;
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[]args){
